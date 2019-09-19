@@ -1,2 +1,2 @@
-# URPS
-Unified Resource Pack Structure
+# URPS-Base
+Blocks which are common to all MCME resource packs
